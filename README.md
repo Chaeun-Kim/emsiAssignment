@@ -19,7 +19,7 @@ MacOS users, if you don't already have Python available, please check here : htt
 
 Linux users, if you don't already have Python available, please check here : https://docs.python-guide.org/starting/install3/linux/ and download the latest Python.
 
-Once Python is installed, run
+Once Python is installed, run the following command
 
 ```
 pip install flask
@@ -28,6 +28,7 @@ to install Flask package.
 
 
 ### Installing
+
 ```
 Give the example
 ```
