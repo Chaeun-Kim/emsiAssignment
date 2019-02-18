@@ -28,18 +28,28 @@ to install Flask package.
 
 
 ### Installing
-
+1. Download emsiAssignment zip file 
+2. Unzip emsiAssignment-master.zip
+3. Open Terminal application/virtual environment and change directory to emsiAssignment-master
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+cd /location/of/emsiAssignment-master  * this is an UNIX-like system command example
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+And run app.py
+
+```
+python3 app.py
+```
+You should see output like
+
+```
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+```
 
 ## Running the tests
 
