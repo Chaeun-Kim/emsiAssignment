@@ -1,6 +1,9 @@
 # Simple Read-Only API in Python
 
 This is a simple read-only API application written in Python using Flask package.
+The 'data.json' file is a JSON formatted data file with numeric county values as keys and its corresponding happiness index as values.
+The API 
+
 
 ## Getting Started
 
@@ -35,12 +38,12 @@ to install Flask package.
 cd /location/of/emsiAssignment-master  * this is an UNIX-like system command example
 ```
 
-And run app.py
+4. Run app.py
 
 ```
 python3 app.py
 ```
-You should see output like
+If successful, you should see output like
 
 ```
  * Serving Flask app "app" (lazy loading)
@@ -53,7 +56,7 @@ You should see output like
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+
 
 ### Break down into end to end tests
 
