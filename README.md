@@ -63,7 +63,7 @@ If successful, you should see output like
 
 While app.py is running on your terminal/virtual environment, open up another terminal/virtual environment. You are going to extract data from the flask app by using "curl" command.
 
-To request data you need to know what URL the app is running on. The typical URL would be http://127.0.0.1:5000/. But it may be different, so check the last line of app.py output. You will see the URL that the application is running on. 
+To request data you need to know what URL the app is running on. The typical hostname of URL would be http://127.0.0.1:5000/. But it may be different, so check the last line of app.py output. You will see the URL that the application is running on. 
 
 #### Print Whole Data
 
