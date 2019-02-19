@@ -89,7 +89,7 @@ This will show you the average happiness index value for counties 10001,10003 an
 
 #### Print Standard Deviation
 
-The Standard Deviation endpoint requires to be given a range of counties.
+The Standard Deviation endpoint requires you to be give a range of counties.
 ```
 curl --request GET http://127.0.0.1:5000/happiness/stdev?from=10000&to=10005
 ```
