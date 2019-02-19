@@ -98,6 +98,10 @@ Both will show you the standard deviation of happiness index of counties(10001, 
 #### Print Counties Within Happiness Range
 
 This endpoint requires you to give a range of happiness index.
+```
+curl --request GET http://127.0.0.1:5000/happiness/range?from=90&to=100
+```
+This will show you the list of all counties with index value that is within 90 and 100.
 
 ### Break down into end to end tests
 
