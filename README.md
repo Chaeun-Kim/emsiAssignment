@@ -104,11 +104,4 @@ curl --request GET http://127.0.0.1:5000/happiness/range?from=90&to=100
 ```
 This will show you the list of all counties with index value that is within 90 and 100.
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
