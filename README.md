@@ -16,7 +16,7 @@ This is a simple Python application, so as long as you can run a Python code on 
 ### Prerequisites
 
 ```
-Latest Python/pip and Flask package will be needed!
+Latest Python, pip, Flask package and curl will be needed!
 ```
 
 #### To Download Python
